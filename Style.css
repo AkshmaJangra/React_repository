@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+ }
+
+body{
+       
+        background: rgb(228, 231, 235);
+                
+    }
+.main{
+    padding: 15px;
+    margin: 19px;
+   
+    
+}   
+.main h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: bold;
+
+    padding: 15px 20px ;
+}
+#top img{
+    height: 50%;
+    width: 50%;
+   
+    /* padding: 19px 20px;; */
+}
+.middle{
+  
+    padding: auto;
+    margin: 30px;
+}
+nav ul{
+    display: flex;
+}
+.middle ul li{
+     padding: 10px 10px; 
+
+}
+.middle ul img{
+    height: 200px;
+    width: 300px;
+}
