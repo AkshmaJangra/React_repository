@@ -1,0 +1,31 @@
+
+
+div{
+    color: green;
+}
+.navbar{
+    background-color: rgb(5, 108, 204) !important
+}
+#navbarNav{
+    flex-direction: row-reverse;
+   
+}
+img{
+    height: 120px;
+    width: 130px;
+}
+#navbarNav ul li a {
+    
+        font-size: 15px;
+        font-family: Gilroy-Bold;
+        color: #fff;
+        text-transform: capitalize;
+        cursor: pointer;
+        padding-top: 30px;
+        padding-bottom: 40px;
+        border-top: 2px solid #0060db;
+}
+@media (max-width: 1000px) {
+ 
+}
+

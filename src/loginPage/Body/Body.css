@@ -1,0 +1,108 @@
+.Body {
+    font-family: sans-serif;
+    text-align: center;
+    
+    background-color: black;
+    color: grey;
+  }
+   .carousel-item {
+    background-image: url(../../assets/slider1.png);
+    background-size: cover;
+  } 
+  .heading {
+    position: relative;
+  text-align: center;
+  color: white;
+  }
+  .form-control-lg {
+    min-height: calc(0.6em + 0rem + 2px);
+    padding: 1.5rem 1rem;
+    font-size: 1.25rem;
+    border-radius: .5rem;
+}
+.form-control {
+    display: block;
+    width: 100px;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #82878b;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: 0.375rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+input[type="number" i] {
+    padding: 1px 2px;
+}
+
+
+ 
+
+  #Request{
+      width: 19px;
+  }
+  @media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .heading{
+      top: 3rem;
+        left: -3rem;
+        position: relative;
+        /* top: 1rem; */
+        text-align: initial;
+       font-size: 13px;
+       padding-bottom: 10px;
+      color: white;
+    
+    }
+  }
+  @media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .heading h1 {
+      font-size: 20px;
+    
+    }
+  }
+  @media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .heading h3 {
+      font-size: 15px;
+    
+    }
+  }
+  @media only screen and (min-width: 600px) {
+    /* For tablets: */
+    .heading{
+      top: -3rem;
+        left: -5rem;
+        position: relative;
+        /* top: 1rem; */
+        text-align: initial;
+      color: white;
+    
+    }
+  }
+  
+  @media only screen and (min-width: 768px) {
+    /* For desktop: */
+    .heading{
+      top: -10rem;
+        left: -9rem;
+        position: relative;
+        /* top: 1rem; */
+        text-align: initial;
+      color: white;
+    
+    }
+  }
+ 

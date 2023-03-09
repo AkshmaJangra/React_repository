@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbard {
+    padding-left: 200px;
+
+    background-color: black !important;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    text-align: center;
+}
+
+img {
+    height: 40px;
+    width: 40px;
+}
+
+.navbard-nav {
+    display: flex;
+    flex-direction: row;
+    padding-right: 50px;
+    margin-bottom: 0;
+    list-style: none;
+    text-align: center;
+}
+
+#navbardNav ul li a {
+    font-size: 15px;
+    font-family: Gilroy-Bold;
+    color: rgb(235, 227, 227);
+    text-transform: capitalize;
+    cursor: pointer;
+    padding: 10px;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    padding: "7px 0px 0px 77px";
+}
+
+
+.navbar1 {
+    padding-left: 300px;
+    background-color: rgb(253, 235, 235) !important;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+img {
+    height: 40px;
+    width: 40px;
+}
+
+.navbar1-nav {
+ 
+    display: flex;
+    flex-direction: row;
+    padding-right: 50px;
+    margin-bottom: 0;
+    list-style: none;
+    text-align: center;
+}
+
+#navbar1Nav ul li a {
+    display: block;
+    font-size: 15px;
+    font-family: Gilroy-Bold;
+    color: rgb(71, 56, 56);
+    text-transform: capitalize;
+    cursor: pointer;
+    padding: 19px;
+    padding-top: 3px;
+    padding-bottom: 3px; 
+   
+}
+.chapternav-label {
+    font-size: 12px;
+    line-height: 1.3333733333;
+    font-weight: 400;
+    letter-spacing: -0.01em;
+    font-family: SF Pro Text,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    display: block;
+    margin: 0;
+}

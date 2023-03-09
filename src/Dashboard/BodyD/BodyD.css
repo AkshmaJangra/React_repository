@@ -1,0 +1,131 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+Body{
+     background-color: black; 
+    width: 100%;
+}
+/* .info-box {
+    background-color: #fff;
+    display: block;
+    width: 60%;
+    height: 250px;
+    padding: 20px 36px 14px;
+    box-shadow: 0 0 8px #e018184d;
+    margin-left: auto;
+margin-right: auto;
+padding-top: 200px;
+} */
+.Container2{
+    display: block;
+    color: aliceblue;
+    text-align: center;
+    padding-top: 140px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style:inherit
+}
+.Container2 img{
+margin-left: auto;
+margin-right: auto;
+margin-top: auto;
+padding-top: 10px;
+width: 45%;
+height: 45%;
+}
+
+.Heading1,h3,h1{
+    display: block;
+    text-align: center;
+    color: white !important;
+}
+.Container3{
+    background-color: white;
+    display: block;
+    color: black;
+    text-align: center;
+    padding-top: 80px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    
+    font-style:inherit
+}
+.Container3 img{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    width: 50%;
+    height: 56%;
+    }
+    .Container4{
+        display: flex;
+        flex-flow: row nowrap;
+        background-color: black;
+        padding: 20px;
+        box-sizing: border-box;
+        margin: 20px;
+        /* height: 700px; */
+       
+    }
+    .Box1{     
+        width: 30%;
+        margin-left: 30px;  
+    }
+    .Box1 img{
+        width: 337px;
+        height: 500px;
+    }
+    .Box2{
+        width: 30%;
+        margin-left: 26px; 
+    }
+    .Box2 img{
+        width: 337px;
+        height: 500px;
+    }
+    .Box3{
+       
+        width: 30%;
+        margin-left: 26px;           
+    }
+    .Box3 img{
+        width: 337px;
+        height: 500px;
+    }
+
+    .Container5{
+        display: flex;
+        flex-flow: row nowrap;
+        background-color: black;
+        padding: 20px;
+        box-sizing: border-box;
+        margin: 20px;
+        /* height: 700px; */
+       
+    }
+    .Box4{     
+        width: 30%;
+        margin-left: 30px;  
+    }
+    .Box4 img{
+        width: 337px;
+        height: 500px;
+    }
+    .Box5{
+        width: 30%;
+        margin-left: 26px; 
+    }
+    .Box5 img{
+        width: 337px;
+        height: 500px;
+    }
+    .Box6{
+       
+        width: 30%;
+        margin-left: 26px;           
+    }
+    .Box6 img{
+        width: 337px;
+        height: 500px;
+    }
