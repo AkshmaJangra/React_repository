@@ -2,156 +2,30 @@
     margin: 0;
     padding: 0;
 }
-
-/* Baked ziti */
-
-.bz-root{
+body{
     padding: 20px 40px;
-    margin: 10px;
+    margin-left: 100px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: rgb(236, 197, 145);
+    background-color: rgb(243, 243, 242);
     font-size:large; 
+     width: 60%;
 }
-.bz-header{
-  margin: 6px;
- 
+body h1{
+    margin-top: 20px;
 }
-.bz-header h1{
-    padding-bottom: 5px;
-
-  }
-
-.bz-header img{
-    height: 500px;
-    width: 770px;
+body img{
+    height: 300px;
+    width: 450px;
 }
-.bz-middle ul{
-    margin: 8px;
-    padding-left: 23px;
-}
-.dir-steps {
-    margin: 8px;
-    padding: 5px 23px;
-}
-
-/* Garlic noodles */
-
-.gn-recipes{
-    padding: 20px 40px;
-    margin: 10px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: rgb(236, 197, 145);
-    font-size:large; 
-}
-.gn-header{
-  margin: 6px;
- 
-}
-.gn-header h1{
-    padding-bottom: 5px;
-
-  }
-
-.gn-header img{
-    height: 500px;
-    width: 770px;
-}
-.gn-middle h2{
-    padding-top: 10px;
-    padding-bottom: 8px;
-   
-}
-.gn-middle ul{
-    margin: 8px;
-    padding-left: 23px;
-}
-.gn-middle ul{
-    color: rgb(58, 9, 9);
-}
-.gn-steps{
-    margin: 5px;
-    padding: 5px 23px;
-}
-.gn-steps p{
-color: rgb(58, 13, 13);
-margin: 5px;
-    padding: 5px 23px;
-}
-.gn-notes p{
-    margin: 8px;
-    padding-left: 23px;
-
-}
-
-/* Homemade Pasta Roni */
-.hpr-root{
-    padding: 20px 40px;
-    margin: 10px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: rgb(236, 197, 145);
-    font-size:large; 
+body p{
+    font-size: 20px;
+    color: gray;
 }
 .artical-post-header{
-  margin: 6px;
- 
+    padding: 15px 10px 10px 5px;
 }
-.artical-post-header h1{
-    padding-bottom: 5px;
-
-  }
-
-.artical-post-header img{
-    height: 500px;
-    width: 770px;
-}
-.mn-ingredients h2{
-    padding-top: 10px;
-    padding-bottom: 8px;
-   
-}
-.mn-ingredients ul{
-    margin: 8px;
-    padding-left: 23px;
-}
-.mn-ingredients ul{
-    color: rgb(58, 9, 9);
-}
-.directions-1{
-    margin: 5px;
-    padding: 5px 23px;
-}
-.directions-1 p{
-color: rgb(58, 13, 13);
-margin: 5px;
-    padding: 5px 23px;
-}
-.notes-1 p{
-    margin: 8px;
-    padding-left: 23px;
-
-}
-
-/* Simple Macaroni and Cheese */
-
-.recipe-pg{
-    padding: 20px 40px;
-    margin: 10px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: rgb(236, 197, 145);
-    font-size:large; 
-}
-.recipe-pg{
-  margin: 6px;
- 
-}
-.recipe-pg h1{
-    padding-bottom: 5px;
-
-  }
-
-.recipe-pg img{
-    height: 450px;
-    width: 700px;
+.artical-post-header p{ 
+   font-size: 25px;
 }
 .Steps h2{
     padding-top: 5px;
@@ -165,26 +39,22 @@ margin: 5px;
 .Steps p{
     padding-left: 15px;
 }
-
-.srm-Ing ul{
+.ingredients ul{
     margin: 8px;
     padding-left: 23px;
-    color: rgb(58, 9, 9);
+    color: gray;
+    font-size: 20px;
 }
-
-.Directions img{
+.directions img{
     height: 350px;
     width: 550px;
 }
-.Directions p{
-color: rgb(58, 13, 13);
-margin: 5px;
+.directions p{
+    margin: 5px;
     padding: 5px 23px;
 }
 .notes p{
     margin: 8px;
     padding-left: 23px;
-
 }
-
 
